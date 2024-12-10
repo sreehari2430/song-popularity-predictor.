@@ -62,6 +62,5 @@ This project is licensed under the MIT License.
 📧 Contact
 For any questions or feedback, feel free to reach out:
 
-Author: Sreehari V
-Email: [your-email@example.com]
-LinkedIn: Your LinkedIn Profile
+Author: Sreehari v
+LinkedIn: www.linkedin.com/in/sreehariv-2001j
